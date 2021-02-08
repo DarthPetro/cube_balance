@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Control Corner 3", "Control Corner 3\Control Corner 3.cproj", "{63452D83-EA37-4762-9AA2-A583D33A94A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63452D83-EA37-4762-9AA2-A583D33A94A4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{63452D83-EA37-4762-9AA2-A583D33A94A4}.Debug|AVR.Build.0 = Debug|AVR
+		{63452D83-EA37-4762-9AA2-A583D33A94A4}.Release|AVR.ActiveCfg = Release|AVR
+		{63452D83-EA37-4762-9AA2-A583D33A94A4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
